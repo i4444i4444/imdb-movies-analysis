@@ -1,7 +1,7 @@
 # IMDb Top 1000 Movies Analysis
 
 ## About the Project
-This is my first data analytics pet project. I explored a dataset of the top 1000 movies and TV shows according to IMDb ratings.
+This is my first data analytics pet project. I explored a dataset of the top 1000 movies according to IMDb ratings.
 
 ## Data
 The dataset is from Kaggle: [IMDB Top 1000 Movies](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
@@ -58,10 +58,10 @@ All SQL queries are available in the file [`queries.sql`](queries.sql). They inc
 ## What I Found
 - The dataset contains 1000 movies.
 - The highest-rated movie is "The Shawshank Redemption" with a rating of 9.3.
-- Alfred Hatchcock has the most movies in Top 1000.
+- Alfred Hitchcock has the most movies in Top 1000.
 - Movies with higher ratings tend to have more votes.
 - Most of the top-1000 movies were released between 1990 and 2020.
-- "I Am Sam" is a movie with the biggest Critic-Audience disagreement.
+- "I Am Sam" is a movie with the biggest Critic-Audience disagreement (Metascore 28, IMDb 7.6 ).
 
 ## Files
 - `queries.sql` — all SQL queries used for the analysis
