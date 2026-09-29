@@ -58,8 +58,10 @@ All SQL queries are available in the file [`queries.sql`](queries.sql). They inc
 ## What I Found
 - The dataset contains 1000 movies.
 - The highest-rated movie is "The Shawshank Redemption" with a rating of 9.3.
+- Alfred Hatchcock has the most movies in Top 1000.
 - Movies with higher ratings tend to have more votes.
 - Most of the top-1000 movies were released between 1990 and 2020.
+- "I Am Sam" is a movie with the biggest Critic-Audience disagreement.
 
 ## Files
 - `queries.sql` — all SQL queries used for the analysis
