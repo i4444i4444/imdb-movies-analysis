@@ -74,5 +74,5 @@ All SQL queries are available in the file [`queries.sql`](queries.sql). They inc
 2. Create a database and table (see `queries.sql`).
 3. Import the CSV file into the table.
 4. Run the queries from `queries.sql`.
-5. Install Python libraries: `pip install pandas matplotlib psycopg2-binary jupyter`
+5. Install Python libraries: `pip install -r requirements.txt`
 6. Run the Jupyter Notebook `analysis.ipynb`.
