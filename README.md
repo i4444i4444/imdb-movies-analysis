@@ -62,6 +62,7 @@ All SQL queries are available in the file [`queries.sql`](queries.sql). They inc
 - Movies with higher ratings tend to have more votes.
 - Most of the top-1000 movies were released between 1990 and 2020.
 - "I Am Sam" is a movie with the biggest Critic-Audience disagreement (Metascore 28, IMDb 7.6 ).
+- The correlation between IMDb rating and number of votes is **0.495**, indicating a moderate positive relationship. Movies with more votes tend to have higher ratings, but the relationship is not strong.
 
 ## Files
 - `queries.sql` — all SQL queries used for the analysis
